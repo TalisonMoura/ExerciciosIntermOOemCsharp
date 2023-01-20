@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioOO01_EmployeeSalary/1.0.0": {
+        "runtime": {
+          "ExercicioOO01_EmployeeSalary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioOO01_EmployeeSalary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
