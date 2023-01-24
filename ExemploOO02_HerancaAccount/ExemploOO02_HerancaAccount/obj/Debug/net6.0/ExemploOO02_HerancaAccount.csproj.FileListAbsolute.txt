@@ -1,0 +1,15 @@
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\bin\Debug\net6.0\ExemploOO02_HerancaAccount.exe
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\bin\Debug\net6.0\ExemploOO02_HerancaAccount.deps.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\bin\Debug\net6.0\ExemploOO02_HerancaAccount.runtimeconfig.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\bin\Debug\net6.0\ExemploOO02_HerancaAccount.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\bin\Debug\net6.0\ExemploOO02_HerancaAccount.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\obj\Debug\net6.0\ExemploOO02_HerancaAccount.csproj.AssemblyReference.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\obj\Debug\net6.0\ExemploOO02_HerancaAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\obj\Debug\net6.0\ExemploOO02_HerancaAccount.AssemblyInfoInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\obj\Debug\net6.0\ExemploOO02_HerancaAccount.AssemblyInfo.cs
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\obj\Debug\net6.0\ExemploOO02_HerancaAccount.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\obj\Debug\net6.0\ExemploOO02_HerancaAccount.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\obj\Debug\net6.0\refint\ExemploOO02_HerancaAccount.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\obj\Debug\net6.0\ExemploOO02_HerancaAccount.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\obj\Debug\net6.0\ExemploOO02_HerancaAccount.genruntimeconfig.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO02_HerancaAccount\ExemploOO02_HerancaAccount\obj\Debug\net6.0\ref\ExemploOO02_HerancaAccount.dll
