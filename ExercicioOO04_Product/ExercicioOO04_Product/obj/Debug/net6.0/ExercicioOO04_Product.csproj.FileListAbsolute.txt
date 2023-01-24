@@ -1,0 +1,15 @@
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\bin\Debug\net6.0\ExercicioOO04_Product.exe
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\bin\Debug\net6.0\ExercicioOO04_Product.deps.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\bin\Debug\net6.0\ExercicioOO04_Product.runtimeconfig.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\bin\Debug\net6.0\ExercicioOO04_Product.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\bin\Debug\net6.0\ExercicioOO04_Product.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\obj\Debug\net6.0\ExercicioOO04_Product.csproj.AssemblyReference.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\obj\Debug\net6.0\ExercicioOO04_Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\obj\Debug\net6.0\ExercicioOO04_Product.AssemblyInfoInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\obj\Debug\net6.0\ExercicioOO04_Product.AssemblyInfo.cs
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\obj\Debug\net6.0\ExercicioOO04_Product.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\obj\Debug\net6.0\ExercicioOO04_Product.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\obj\Debug\net6.0\refint\ExercicioOO04_Product.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\obj\Debug\net6.0\ExercicioOO04_Product.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\obj\Debug\net6.0\ExercicioOO04_Product.genruntimeconfig.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO04_Product\ExercicioOO04_Product\obj\Debug\net6.0\ref\ExercicioOO04_Product.dll
