@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExemploOO06_BlocoFinally/1.0.0": {
+        "runtime": {
+          "ExemploOO06_BlocoFinally.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploOO06_BlocoFinally/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
