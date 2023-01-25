@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExemploOO05_TryCatch/1.0.0": {
+        "runtime": {
+          "ExemploOO05_TryCatch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploOO05_TryCatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
