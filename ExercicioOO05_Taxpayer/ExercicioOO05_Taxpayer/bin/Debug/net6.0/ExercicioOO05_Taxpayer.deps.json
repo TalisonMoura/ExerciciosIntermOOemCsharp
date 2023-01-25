@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioOO05_Taxpayer/1.0.0": {
+        "runtime": {
+          "ExercicioOO05_Taxpayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioOO05_Taxpayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
