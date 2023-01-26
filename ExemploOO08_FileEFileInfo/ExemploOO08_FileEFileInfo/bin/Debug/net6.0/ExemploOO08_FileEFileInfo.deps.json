@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExemploOO08_FileEFileInfo/1.0.0": {
+        "runtime": {
+          "ExemploOO08_FileEFileInfo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploOO08_FileEFileInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
