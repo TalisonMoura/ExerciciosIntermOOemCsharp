@@ -1,0 +1,15 @@
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\bin\Debug\net6.0\ExercicioOO06_ExcecaoAccount.exe
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\bin\Debug\net6.0\ExercicioOO06_ExcecaoAccount.deps.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\bin\Debug\net6.0\ExercicioOO06_ExcecaoAccount.runtimeconfig.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\bin\Debug\net6.0\ExercicioOO06_ExcecaoAccount.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\bin\Debug\net6.0\ExercicioOO06_ExcecaoAccount.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\obj\Debug\net6.0\ExercicioOO06_ExcecaoAccount.csproj.AssemblyReference.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\obj\Debug\net6.0\ExercicioOO06_ExcecaoAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\obj\Debug\net6.0\ExercicioOO06_ExcecaoAccount.AssemblyInfoInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\obj\Debug\net6.0\ExercicioOO06_ExcecaoAccount.AssemblyInfo.cs
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\obj\Debug\net6.0\ExercicioOO06_ExcecaoAccount.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\obj\Debug\net6.0\ExercicioOO06_ExcecaoAccount.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\obj\Debug\net6.0\refint\ExercicioOO06_ExcecaoAccount.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\obj\Debug\net6.0\ExercicioOO06_ExcecaoAccount.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\obj\Debug\net6.0\ExercicioOO06_ExcecaoAccount.genruntimeconfig.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO06_ExcecaoAccount\ExercicioOO06_ExcecaoAccount\obj\Debug\net6.0\ref\ExercicioOO06_ExcecaoAccount.dll
