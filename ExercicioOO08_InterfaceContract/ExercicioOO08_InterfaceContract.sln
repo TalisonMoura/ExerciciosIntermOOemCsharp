@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioOO08_InterfaceContract", "ExercicioOO08_InterfaceContract\ExercicioOO08_InterfaceContract.csproj", "{82C4EDD4-84AF-4869-861E-258D9C5C79A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82C4EDD4-84AF-4869-861E-258D9C5C79A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C4EDD4-84AF-4869-861E-258D9C5C79A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C4EDD4-84AF-4869-861E-258D9C5C79A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C4EDD4-84AF-4869-861E-258D9C5C79A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5675C7C7-4A22-4D08-A6D0-CB93BE2E9C63}
+	EndGlobalSection
+EndGlobal
