@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExemploOO15_HerdarVSCumprirContrato/1.0.0": {
+        "runtime": {
+          "ExemploOO15_HerdarVSCumprirContrato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploOO15_HerdarVSCumprirContrato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

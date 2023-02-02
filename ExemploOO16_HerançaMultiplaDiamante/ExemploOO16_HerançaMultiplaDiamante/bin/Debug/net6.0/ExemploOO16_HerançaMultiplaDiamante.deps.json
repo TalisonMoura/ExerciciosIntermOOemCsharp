@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExemploOO16_HerançaMultiplaDiamante/1.0.0": {
+        "runtime": {
+          "ExemploOO16_HerançaMultiplaDiamante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploOO16_HerançaMultiplaDiamante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
