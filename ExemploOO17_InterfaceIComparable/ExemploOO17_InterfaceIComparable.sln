@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploOO17_InterfaceIComparable", "ExemploOO17_InterfaceIComparable\ExemploOO17_InterfaceIComparable.csproj", "{E70719AD-DC50-49C6-A387-3E00347702B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E70719AD-DC50-49C6-A387-3E00347702B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70719AD-DC50-49C6-A387-3E00347702B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70719AD-DC50-49C6-A387-3E00347702B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70719AD-DC50-49C6-A387-3E00347702B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DF4C451-3CC4-4B8D-91CB-B3D81D897EB3}
+	EndGlobalSection
+EndGlobal
