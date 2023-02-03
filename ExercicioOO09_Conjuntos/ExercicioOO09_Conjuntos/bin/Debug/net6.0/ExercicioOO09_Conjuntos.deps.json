@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioOO09_Conjuntos/1.0.0": {
+        "runtime": {
+          "ExercicioOO09_Conjuntos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioOO09_Conjuntos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
