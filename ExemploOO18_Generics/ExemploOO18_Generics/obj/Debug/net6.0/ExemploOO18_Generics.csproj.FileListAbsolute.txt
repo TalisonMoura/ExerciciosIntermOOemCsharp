@@ -1,0 +1,15 @@
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\bin\Debug\net6.0\ExemploOO18_Generics.exe
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\bin\Debug\net6.0\ExemploOO18_Generics.deps.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\bin\Debug\net6.0\ExemploOO18_Generics.runtimeconfig.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\bin\Debug\net6.0\ExemploOO18_Generics.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\bin\Debug\net6.0\ExemploOO18_Generics.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\obj\Debug\net6.0\ExemploOO18_Generics.csproj.AssemblyReference.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\obj\Debug\net6.0\ExemploOO18_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\obj\Debug\net6.0\ExemploOO18_Generics.AssemblyInfoInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\obj\Debug\net6.0\ExemploOO18_Generics.AssemblyInfo.cs
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\obj\Debug\net6.0\ExemploOO18_Generics.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\obj\Debug\net6.0\ExemploOO18_Generics.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\obj\Debug\net6.0\refint\ExemploOO18_Generics.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\obj\Debug\net6.0\ExemploOO18_Generics.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\obj\Debug\net6.0\ExemploOO18_Generics.genruntimeconfig.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO18_Generics\ExemploOO18_Generics\obj\Debug\net6.0\ref\ExemploOO18_Generics.dll

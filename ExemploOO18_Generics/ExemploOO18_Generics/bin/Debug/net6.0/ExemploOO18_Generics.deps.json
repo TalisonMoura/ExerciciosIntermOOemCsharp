@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExemploOO18_Generics/1.0.0": {
+        "runtime": {
+          "ExemploOO18_Generics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploOO18_Generics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

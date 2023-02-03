@@ -1,0 +1,15 @@
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\bin\Debug\net6.0\ExemploOO19_RestricoesGenerics.exe
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\bin\Debug\net6.0\ExemploOO19_RestricoesGenerics.deps.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\bin\Debug\net6.0\ExemploOO19_RestricoesGenerics.runtimeconfig.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\bin\Debug\net6.0\ExemploOO19_RestricoesGenerics.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\bin\Debug\net6.0\ExemploOO19_RestricoesGenerics.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\obj\Debug\net6.0\ExemploOO19_RestricoesGenerics.csproj.AssemblyReference.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\obj\Debug\net6.0\ExemploOO19_RestricoesGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\obj\Debug\net6.0\ExemploOO19_RestricoesGenerics.AssemblyInfoInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\obj\Debug\net6.0\ExemploOO19_RestricoesGenerics.AssemblyInfo.cs
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\obj\Debug\net6.0\ExemploOO19_RestricoesGenerics.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\obj\Debug\net6.0\ExemploOO19_RestricoesGenerics.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\obj\Debug\net6.0\refint\ExemploOO19_RestricoesGenerics.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\obj\Debug\net6.0\ExemploOO19_RestricoesGenerics.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\obj\Debug\net6.0\ExemploOO19_RestricoesGenerics.genruntimeconfig.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO19_RestricoesGenerics\ExemploOO19_RestricoesGenerics\obj\Debug\net6.0\ref\ExemploOO19_RestricoesGenerics.dll
