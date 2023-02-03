@@ -1,0 +1,15 @@
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\obj\Debug\net6.0\ExercicioOO11_DictionaryCandidate.csproj.AssemblyReference.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\obj\Debug\net6.0\ExercicioOO11_DictionaryCandidate.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\obj\Debug\net6.0\ExercicioOO11_DictionaryCandidate.AssemblyInfoInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\obj\Debug\net6.0\ExercicioOO11_DictionaryCandidate.AssemblyInfo.cs
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\obj\Debug\net6.0\ExercicioOO11_DictionaryCandidate.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\bin\Debug\net6.0\ExercicioOO11_DictionaryCandidate.exe
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\bin\Debug\net6.0\ExercicioOO11_DictionaryCandidate.deps.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\bin\Debug\net6.0\ExercicioOO11_DictionaryCandidate.runtimeconfig.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\bin\Debug\net6.0\ExercicioOO11_DictionaryCandidate.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\bin\Debug\net6.0\ExercicioOO11_DictionaryCandidate.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\obj\Debug\net6.0\ExercicioOO11_DictionaryCandidate.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\obj\Debug\net6.0\refint\ExercicioOO11_DictionaryCandidate.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\obj\Debug\net6.0\ExercicioOO11_DictionaryCandidate.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\obj\Debug\net6.0\ExercicioOO11_DictionaryCandidate.genruntimeconfig.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExercicioOO11_DictionaryCandidate\ExercicioOO11_DictionaryCandidate\obj\Debug\net6.0\ref\ExercicioOO11_DictionaryCandidate.dll
