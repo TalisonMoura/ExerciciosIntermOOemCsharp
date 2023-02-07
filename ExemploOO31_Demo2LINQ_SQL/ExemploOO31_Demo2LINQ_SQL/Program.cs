@@ -33,7 +33,9 @@ namespace ExemploOO31_Demo2LINQ_SQL
                 new Product() { Id = 10, Name = "Sound Bar", Price = 700.0, Category = c3 },
                 new Product() { Id = 11, Name = "Level", Price = 70.0, Category = c1 }
             };
-
+            
+            // CONSULTA EM C# COMENTADA, E EM SEGUIDA SEGUE A CONSULTA EM MODELO SQL
+            
             // var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900.0);
             var r1 =
                 from p in products
