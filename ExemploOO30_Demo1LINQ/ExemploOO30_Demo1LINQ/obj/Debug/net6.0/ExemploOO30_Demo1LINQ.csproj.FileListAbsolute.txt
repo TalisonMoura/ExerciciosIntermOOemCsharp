@@ -1,0 +1,15 @@
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\bin\Debug\net6.0\ExemploOO30_Demo1LINQ.exe
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\bin\Debug\net6.0\ExemploOO30_Demo1LINQ.deps.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\bin\Debug\net6.0\ExemploOO30_Demo1LINQ.runtimeconfig.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\bin\Debug\net6.0\ExemploOO30_Demo1LINQ.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\bin\Debug\net6.0\ExemploOO30_Demo1LINQ.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\obj\Debug\net6.0\ExemploOO30_Demo1LINQ.csproj.AssemblyReference.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\obj\Debug\net6.0\ExemploOO30_Demo1LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\obj\Debug\net6.0\ExemploOO30_Demo1LINQ.AssemblyInfoInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\obj\Debug\net6.0\ExemploOO30_Demo1LINQ.AssemblyInfo.cs
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\obj\Debug\net6.0\ExemploOO30_Demo1LINQ.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\obj\Debug\net6.0\ExemploOO30_Demo1LINQ.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\obj\Debug\net6.0\refint\ExemploOO30_Demo1LINQ.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\obj\Debug\net6.0\ExemploOO30_Demo1LINQ.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\obj\Debug\net6.0\ExemploOO30_Demo1LINQ.genruntimeconfig.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO30_Demo1LINQ\ExemploOO30_Demo1LINQ\obj\Debug\net6.0\ref\ExemploOO30_Demo1LINQ.dll
