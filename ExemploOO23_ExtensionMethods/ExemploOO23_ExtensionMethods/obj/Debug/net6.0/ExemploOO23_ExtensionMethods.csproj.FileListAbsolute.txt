@@ -1,0 +1,15 @@
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\bin\Debug\net6.0\ExemploOO23_ExtensionMethods.exe
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\bin\Debug\net6.0\ExemploOO23_ExtensionMethods.deps.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\bin\Debug\net6.0\ExemploOO23_ExtensionMethods.runtimeconfig.json
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\bin\Debug\net6.0\ExemploOO23_ExtensionMethods.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\bin\Debug\net6.0\ExemploOO23_ExtensionMethods.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\obj\Debug\net6.0\ExemploOO23_ExtensionMethods.csproj.AssemblyReference.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\obj\Debug\net6.0\ExemploOO23_ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\obj\Debug\net6.0\ExemploOO23_ExtensionMethods.AssemblyInfoInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\obj\Debug\net6.0\ExemploOO23_ExtensionMethods.AssemblyInfo.cs
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\obj\Debug\net6.0\ExemploOO23_ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\obj\Debug\net6.0\ExemploOO23_ExtensionMethods.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\obj\Debug\net6.0\refint\ExemploOO23_ExtensionMethods.dll
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\obj\Debug\net6.0\ExemploOO23_ExtensionMethods.pdb
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\obj\Debug\net6.0\ExemploOO23_ExtensionMethods.genruntimeconfig.cache
+C:\temp\WS-VS2023-WorkSpace\Orientado a Objetos\Modulo 2 - Intermediário\ExemploOO23_ExtensionMethods\ExemploOO23_ExtensionMethods\obj\Debug\net6.0\ref\ExemploOO23_ExtensionMethods.dll
