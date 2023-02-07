@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExemploOO26_DelegatesRemoveAll/1.0.0": {
+        "runtime": {
+          "ExemploOO26_DelegatesRemoveAll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploOO26_DelegatesRemoveAll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

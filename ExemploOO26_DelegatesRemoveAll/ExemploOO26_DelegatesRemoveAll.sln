@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploOO26_DelegatesRemoveAll", "ExemploOO26_DelegatesRemoveAll\ExemploOO26_DelegatesRemoveAll.csproj", "{99E8D12B-AC66-4149-A7E1-131276B59215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E8D12B-AC66-4149-A7E1-131276B59215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E8D12B-AC66-4149-A7E1-131276B59215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E8D12B-AC66-4149-A7E1-131276B59215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E8D12B-AC66-4149-A7E1-131276B59215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {652AC15A-6831-4E7E-BDC7-A14BE7B6D235}
+	EndGlobalSection
+EndGlobal
