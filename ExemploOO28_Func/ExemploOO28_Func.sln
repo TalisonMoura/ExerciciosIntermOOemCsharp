@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploOO28_Func", "ExemploOO28_Func\ExemploOO28_Func.csproj", "{E6161D63-7169-4563-8E02-BFD2211CFC03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6161D63-7169-4563-8E02-BFD2211CFC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6161D63-7169-4563-8E02-BFD2211CFC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6161D63-7169-4563-8E02-BFD2211CFC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6161D63-7169-4563-8E02-BFD2211CFC03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F5CD92B-D9CB-4F3E-9663-D9D056EECFE8}
+	EndGlobalSection
+EndGlobal

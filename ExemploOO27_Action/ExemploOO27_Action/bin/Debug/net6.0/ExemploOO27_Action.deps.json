@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExemploOO27_Action/1.0.0": {
+        "runtime": {
+          "ExemploOO27_Action.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploOO27_Action/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
